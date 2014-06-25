@@ -1,8 +1,8 @@
 {
-    "name": "bootstrap-semantic-syntax",
-    "description": "Semantic syntax using Bootstrap.",
-    "homepage": "https://github.com/awatson1978/bootstrap-semantic-syntax",
+    "name": "clinical-ui-semantics",
+    "description": "Semantic CSS classess for your Clinical UI application.",
+    "homepage": "https://github.com/awatson1978/clinical-ui-semantics",
     "author": "Abigail Watson  (http://www.pentasyllabic.com)",
-    "version": "0.1.0",
-    "git": "https://github.com/awatson1978/bootstrap-semantic-syntax.git"
+    "version": "0.1.1",
+    "git": "https://github.com/awatson1978/clinical-ui-semantics.git"
 }
