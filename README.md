@@ -1,7 +1,7 @@
 clinical-ui-semantics
 =========================
 
-Semantic extensions to Bootstrap 3.  
+Package to provide semantic CSS classes to your app.  Based on Bootstrap3.  
 
 
 ====================
