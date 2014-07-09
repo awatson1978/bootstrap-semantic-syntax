@@ -6,5 +6,5 @@ Package.describe({
 Package.on_use(function (api) {
   api.use(['bootstrap-3', 'less'], 'client');
 
-  api.add_files('syntax-syntax.less', 'client');
+  api.add_files('semantic-syntax.less', 'client');
 });
