@@ -31,14 +31,11 @@ Alternatively, if you'd like to bypass Atmosphere, and install directly from Git
 
 - clickable
 - unselectable
-
 - fullwidth
 - fullheight
-
 - bold
 - centered
 - strikeout
-
 
 - padded
 - padded-horizontal
