@@ -27,7 +27,7 @@ Alternatively, if you'd like to bypass Atmosphere, and install directly from Git
 }
 ````
 
-## Syntax  
+## Supported Syntax  
 
 - clickable
 - unselectable
