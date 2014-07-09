@@ -31,11 +31,33 @@ Alternatively, if you'd like to bypass Atmosphere, and install directly from Git
 
 - clickable
 - unselectable
+
 - fullwidth
 - fullheight
+
 - bold
 - centered
 - strikeout
 
 
-
+- padded
+- padded-horizontal
+- with-horizontal-padding
+- horizontally-padded
+- padded-vertical
+- with-vertical-padding
+- vertically-padded
+- without-padding
+- nopadding
+- no-padding
+- without-right-padding
+- without-left-padding
+- without-top-padding
+- without-bottom-padding
+- with-margins
+- with-bottom-spacer
+- with-bottom-padding
+- with-top-spacer
+- -with-top-padding
+- with-right-padding
+- with-left-padding
