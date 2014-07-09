@@ -36,7 +36,6 @@ Alternatively, if you'd like to bypass Atmosphere, and install directly from Git
 - bold
 - centered
 - strikeout
-
 - padded
 - padded-horizontal
 - with-horizontal-padding
@@ -55,6 +54,6 @@ Alternatively, if you'd like to bypass Atmosphere, and install directly from Git
 - with-bottom-spacer
 - with-bottom-padding
 - with-top-spacer
-- -with-top-padding
+- with-top-padding
 - with-right-padding
 - with-left-padding
