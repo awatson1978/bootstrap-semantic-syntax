@@ -29,8 +29,24 @@ Alternatively, if you'd like to bypass Atmosphere, and install directly from Git
 
 ## API  
 
+-----------------------------------------
+#### Haptics
+
 - clickable
 - unselectable
+
+-----------------------------------------
+#### Sizing
+
 - fullwidth
 - fullheight
-- 
+
+-----------------------------------------
+#### Text and Fonts
+
+- bold
+- centered
+- strikeout
+
+
+
