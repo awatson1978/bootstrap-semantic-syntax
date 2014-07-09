@@ -4,8 +4,7 @@ clinical-ui-syntax
 Package to provide semantic CSS classes to your app.  Based on Bootstrap3.  
 
 
-====================
-## Installation
+#### Installation
 
 First, install the clinical-ui-syntax package from the command line, like so:
 
